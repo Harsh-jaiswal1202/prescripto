@@ -38,6 +38,8 @@ import Neurologist from './Neurologist.svg'
 import Pediatricians from './Pediatricians.svg'
 import icon from './icon.png'
 
+//const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:5000';
+
 
 export const assets = {
     appointment_img,

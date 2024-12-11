@@ -14,6 +14,7 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Verify from './pages/Verify'
 
+// const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:5000';
 const App = () => {
   return (
     <div className='mx-4 sm:mx-[10%]'>
